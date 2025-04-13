@@ -13,4 +13,4 @@ pip install numpy matplotlib scikit-learn tensorflow pillow
 ```
 
 ### 2. Download Dataset
-[Dataset]: https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
+Download here: https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
